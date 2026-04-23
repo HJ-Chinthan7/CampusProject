@@ -23,7 +23,7 @@ Deployment: Ready for Vercel/Netlify + Render/Railway
 
 ### 1. Clone & Install
 ```bash
-git clone <your-repo>
+git clone https://github.com/HJ-Chinthan7/CampusProject.git
 cd campus-event-management
 npm run install-all
 ```
@@ -90,4 +90,5 @@ POST /api/registrations/:eventId/register
 
 
 ---
+
 
