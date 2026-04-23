@@ -53,7 +53,7 @@ Frontend: `http://localhost:3000`
 
 ##  Live Demo
 ```
-[[Deployed Link - Update after deployment]](https://campusproject7.netlify.app/)
+https://campusproject7.netlify.app/
 ```
 
 ##  Project Structure
