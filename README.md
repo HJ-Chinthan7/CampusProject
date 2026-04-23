@@ -19,7 +19,6 @@ Deployment: Ready for Vercel/Netlify + Render/Railway
 
 ### Prerequisites
 - Node.js 18+
-- MongoDB (local or [MongoDB Atlas](https://mongodb.com/atlas))
 
 ### 1. Clone & Install
 ```bash
