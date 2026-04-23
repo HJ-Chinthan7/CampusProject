@@ -12,7 +12,7 @@
 Frontend: React 19 + Vite + Tailwind CSS + React Router
 Backend: Express.js + MongoDB + Mongoose
 Auth: JWT + bcrypt
-Deployment: Ready for Vercel/Netlify + Render/Railway
+Deployment: Ready for Netlify + Render
 ```
 
 ##  Quick Start
